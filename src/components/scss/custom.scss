@@ -1,0 +1,610 @@
+// colors and theming
+$theme-colors: (
+  "primary": #1B1D33,
+  "secondary": #494A5B,
+  "muted": #F3F4EF
+);
+
+
+@import "../bootstrap/scss/bootstrap";
+@import url("https://use.typekit.net/ikb4fkg.css");
+
+// typography
+@mixin proxima-nova {
+  font-family: proxima-nova, sans-serif;
+}
+
+.proxima-nova {
+  @include proxima-nova;
+}
+
+@mixin skolar-latin {
+  font-family: skolar-latin, serif;
+}
+
+.skolar-latin {
+  @include skolar-latin;
+}
+
+body {
+  @include proxima-nova;
+}
+
+// colors
+$otf-brand-color: #1B1D33;
+$otf-light-beige: #F3F4EF;
+$otf-light-lilac: #DDD0E2;
+$otf-gray-blue: #494A5B;
+$otf-blue-link: #2075AC;
+$otf-blue: #288ECF;
+$otf-yellow: #FBFFE6;
+$otf-dark-grey: #333333;
+$otf-light-grey: #EFEFEF;
+$otf-black-80: #33312d;
+$otf-black-100: #000000;
+$otf-link: $otf-blue-link;
+$otf-highlight: $otf-brand-color;
+$otf-highlight-dark: #FFDF00;
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    @include skolar-latin;
+    font-weight: 600;
+    color: $otf-black-80;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3, 
+h4,
+h5 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+strong {
+  font-weight: 600;
+}
+
+
+
+:focus, :focus-visible {
+  outline: 3px solid $otf-highlight;
+  outline-offset: 2px;
+  -webkit-transition: outline .05s ease-out;
+  -o-transition: outline .05s ease-out;
+  transition: outline .05s ease-out;
+  outline-color: -webkit-focus-ring-color;
+}
+
+
+// links
+p, ul, li {
+  a {
+  color: $otf-link;
+  border-bottom: 1px solid $otf-link;
+  word-wrap: break-word;
+  }
+  a:hover,
+  a:focus {
+    border-bottom:none;
+    color: #fff;
+    background-color: $otf-link;
+    text-decoration: underline; 
+  }
+}
+
+a img.external {
+    height: 20px;
+    width: auto;
+    vertical-align: middle;
+}
+
+// buttons
+.btn {
+  @include proxima-nova;
+  font-weight: 500;
+}
+
+p a.btn {
+  text-decoration: none;
+}
+
+.btn-secondary {
+  color: #fff;
+}
+
+.btn-secondary:focus {
+  outline: 3px solid $otf-highlight;
+  outline-offset: 2px;
+  -webkit-transition: outline .05s ease-out;
+  -o-transition: outline .05s ease-out;
+  transition: outline .05s ease-out;
+  box-shadow: none; 
+}
+
+
+// header and navigation
+.navbar-light {
+  @include proxima-nova;
+}
+
+.navbar span {
+  font-style: italic;
+
+}
+
+.navbar-nav li.nav-item a.nav-link {
+  border-bottom: 0;
+  color: $otf-link;
+  font-weight: 500;
+  font-size: 1.1em;
+}
+
+.navbar-nav li.nav-item a.nav-link:hover,
+.navbar-nav li.nav-item a.nav-link:focus
+ {
+  color: $otf-link;
+  text-decoration: underline;
+  background: none;
+}
+
+
+.navbar-brand {
+  padding: .25em;
+}
+
+// page
+.page-container {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
+
+// hero
+.hero-container {
+  color: #fff;
+  background-color: $otf-brand-color;
+  padding: 2em 0;
+
+  .container .row {
+    justify-content: center;
+  }
+
+  .hero-primary {
+    color: $otf-blue;
+    font-size: 1.8em;
+    font-weight: 700;
+    text-align: center;
+    @include skolar-latin;
+    max-width: 80%;
+  }
+  .hero-secondary {
+    padding-top: .8em;
+    text-align: center;
+    font-size: 1.3em;
+    max-width: 80%;
+  }
+}
+
+// cards
+
+.card {
+  border-radius: 0;
+
+  picture,
+  source {
+    line-height: 0;
+  };
+}
+
+.card-subtitle.text-muted,
+.published .text-muted {
+  color: #616970 !important;
+}
+
+
+// tagline/quote
+.top-tagline {
+  font-size: 1.5rem;
+  padding-bottom: 1rem;
+}
+
+
+// publishers
+.books-container {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+
+  .featured {
+    display: flex;
+    justify-content: center;
+  }
+
+  .publisher-text {
+    padding-bottom: 1em;
+  }
+
+  .book-card-list {
+    justify-content: space-evenly;
+  }
+  
+  // publisher cards
+  .book-card {
+    max-width: 200px;
+    background-color: $otf-light-lilac;
+    margin: 10px;
+    border: 1px solid $otf-brand-color;
+
+    h3 {
+      font-size: 1rem;
+      margin-top: 0;
+      text-align: center;
+    }
+
+    .card-img {
+      border-radius: 0;
+      max-height: 200px;
+      width: 100%;
+      background-color: #fff;
+      padding: 10px;
+    }
+
+    .card-subtitle {
+      @include proxima-nova;
+      font-weight: 400;
+      margin-bottom: .6em;
+    }
+
+    p {
+      max-width: 100%;
+    }
+
+    .card-text {
+      font-size: .9rem;
+    }
+
+    .cover-only-img {
+      min-width: 200px;
+    }
+  }
+
+}
+
+
+// home - tagline and catalog container
+.tagline-container {
+  position: relative;
+  padding: 4rem 0;
+  border-top: 1px solid rgba(0,0,0,.125);
+  border-bottom: 1px solid rgba(0,0,0,.125);
+  background-color: $otf-light-lilac;
+
+  .tag {
+    @include skolar-latin;
+    color: $otf-brand-color;
+    text-align: center;
+    font-size: 2em;
+
+  }
+
+  .cta-tagline {
+    font-size: 1.3em;
+    color: $otf-brand-color;
+  }
+}
+
+// for background image 
+/*
+.tagline-container:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+  background-image: url("/assets/konza-prairie-crop.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 0;
+} */
+
+
+// home - catalog
+.catalog-wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  figure {
+    display: flex;
+    justify-content: center;
+  }
+
+}
+.catalog-image {
+  width: 95px;
+}
+
+// Home page call to action buttons and containers
+.cta-container {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid rgba(0,0,0,.125);
+
+  .row {
+    justify-content: space-between;
+  }
+
+  .cta1, .cta2 {
+    background-color: $otf-brand-color;
+    color: $otf-light-lilac;
+    padding: 1em;
+
+    h2 {
+      color: #FFF;
+    }
+  }
+
+
+}
+
+
+.news-events-container {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  h2 {
+    margin-bottom: 1rem;
+  }
+}
+
+// news and events on homepage and individual pages
+.post-image {
+  max-height: 500px;
+  overflow: hidden;
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+
+.news {
+  p {
+    line-height: 1.7;
+  }
+}
+
+.news-item .main {
+  @include skolar-latin;
+  line-height: 1.7;
+  font-size: 1.1rem;
+}
+
+.summary {
+
+    p {
+      font-size: 1.5rem;
+      margin-bottom: 1em;
+      @include proxima-nova;
+      line-height: 1.5;
+    }
+
+    time {
+      font-size: .9em;
+      margin-top: .2em !important;
+      margin-bottom: 1em;
+      @include proxima-nova;
+      display: block;
+    }
+}
+
+.blog-card-container {
+
+  .card-body {
+    position: relative;
+
+    a::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+    a:focus {
+      outline: initial;
+    }
+  }
+
+  .card-body:hover,
+  .card-body:focus-within {
+    outline: 3px solid $otf-highlight;
+      outline-offset: 2px;
+      -webkit-transition: outline .05s ease-out;
+      -o-transition: outline .05s ease-out;
+      transition: outline .05s ease-out; 
+  }
+
+  .card-image {
+    max-height: 300px;
+    overflow: hidden;
+  }
+}
+
+.blog-card-container .card {
+  background-color: $otf-light-beige;
+
+  .published {
+    @include proxima-nova;
+  }
+}
+
+.blog-card-container > a:focus,
+.blog-card-container > .card:focus {
+  outline: 3px solid $otf-highlight;
+  outline-offset: 2px;
+  -webkit-transition: outline .05s ease-out;
+  -o-transition: outline .05s ease-out;
+  transition: outline .05s ease-out;
+  outline-color: -webkit-focus-ring-color;
+}
+
+.event-card-container {
+  h3 {
+    font-size: 1.25rem;
+  }
+}
+
+
+
+.journals {
+
+  h2 {
+    margin-top: 0;
+  }
+  img {
+    border: 2px solid $otf-light-beige;
+  }
+}
+
+
+// footer
+.footer {
+  background-color: $otf-brand-color;
+  border-top: 1px solid rgba(0,0,0,.125);
+  padding: 3rem 0 1rem;
+  @include proxima-nova;
+
+  :focus {
+    outline: 3px solid $otf-highlight-dark;
+    outline-offset: 2px;
+    -webkit-transition: outline .05s ease-out;
+    -o-transition: outline .05s ease-out;
+    transition: outline .05s ease-out;
+  }
+
+  a.logo-link, a {
+    text-decoration: underline;
+    border-bottom: 0px;
+  }
+
+  span.logo {
+    @include skolar-latin;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    vertical-align: middle;
+    padding-left: 8px;
+  }
+
+  .partners {
+    .westminster svg {
+      fill: $otf-light-beige;
+      width: 140px;
+      margin-bottom: 15px;
+      display: inline-block;
+    }
+    .alpsp img {
+      height: 40px;
+      display: inline-block;
+    }
+    .alpsp img {
+      margin-bottom: 20px;
+    }
+    .aeup img, .even img {
+      height: 40px;
+      display: inline-block;
+    }
+    .aeup img {
+      margin-right: 10px;
+    }
+  }
+
+  .fulcrum {
+    vertical-align: baseline;
+  }
+
+  .block {
+    display: block;
+  }
+
+  .contact a {
+    margin-bottom: 1em;
+  }
+
+  p.social {
+    padding-top: .4em;
+    a {
+      padding-right: 0.75em;
+      svg {
+        display: inline-block;
+        vertical-align: middle;
+        fill: $otf-light-beige;
+      }
+    }
+    a:first-of-type {
+      padding-left: 0;
+    }
+  }
+
+  .footer-head {
+    font-size: 1.25rem;
+    margin-bottom: .5rem;
+    font-weight: 500;
+  }
+
+  ul.second-nav {
+    font-size: 20px;
+  }
+
+  li {
+    padding-left: 1rem;
+    text-indent:-1rem;
+  }
+
+}
+
+@media screen and (max-width: 1200px) {
+  .featured .book-card {
+    margin-bottom: 2em;
+  }
+
+  .books-container .book-card:first-child {
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .card-img {
+    width: auto;
+  }
+  .navbar-brand-logo {
+    width: 300px;
+    height: auto;
+  }
+  .books-container .book-card {
+    max-width: 350px;
+  }
+  .books-container .book-card:first-child {
+    margin-right: 0;
+  }
+  .featured .journals {
+    margin-top: 0;
+  }
+  .featured .book-card {
+    margin-bottom: 2em;
+  }
+}
+
+

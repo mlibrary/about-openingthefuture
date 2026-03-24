@@ -1,0 +1,115 @@
+media_folder: static/assets
+public_folder: assets
+public_folder_relative: false
+collections:
+  - name: news
+    label: News
+    folder: src/content/news
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: news }
+      - { name: title, label: Title }
+      - { name: summary, label: Summary }
+      - { name: date, label: Published, widget: datetime }
+      - { name: body, label: Body, widget: markdown }
+  - name: publishers
+    label: Publishers
+    folder: src/content/publishers
+    create: true
+    slug: "{{title}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: publisher }
+      - { name: title, label: Title }
+      - { name: cover, label: Cover, widget: image }
+      - { name: description, label: "Description", required: false }
+      - { name: orderOnPage, label: "Order on Front Page", widget: number }
+      - { name: publisherLink, label: "Publisher Link" }
+  - name: pages
+    label: Pages
+    files:
+      - file: src/content/home.md
+        name: home
+        label: Home
+        editor:
+          preview: false
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: home-page }
+          - name: heroSection
+            label: "Hero Section"
+            widget: object
+            fields:
+              - { name: primaryText, label: "Primary Text", widget: markdown }
+              - { name: secondaryText, label: "Secondary Text", widget: markdown }
+              - { name: buttonLabel, label: "Button Label" }
+              - { name: buttonUrl, label: "Button URL" }
+          - name: taglineSection
+            label: "Tag Line Section"
+            widget: object
+            fields:
+              - { name: text, label: Text, widget: markdown }
+          - name: firstCallToActionSection
+            label: "First Call to Action Section"
+            widget: object
+            fields:
+              - { name: heading, label: "Heading" }
+              - { name: description, label: "Description", widget: markdown }
+              - { name: buttonLabel, label: "CTA Button Label" }
+              - { name: buttonUrl, label: "CTA Button URL" }
+          - name: secondCallToActionSection
+            label: "Second Call to Action Section"
+            widget: object
+            fields:
+              - { name: heading, label: "Heading" }
+              - { name: description, label: "Description", widget: markdown }
+              - { name: buttonLabel, label: "CTA Button Label" }
+              - { name: buttonUrl, label: "CTA Button URL" }
+      - file: "src/content/about.md"
+        name: about
+        label: About
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: About }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/supporters.md"
+        name: supporters
+        label: Supporters
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Supporters }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/for-libraries.md"
+        name: forLibraries
+        label: For Libraries
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: For Libraries }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/get-involved.md"
+        name: getInvolved
+        label: Get Involved
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Get Involved }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/contact.md"
+        name: contact
+        label: Contact
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
+          - { name: title, label: Contact }
+          - { name: body, label: Body, widget: markdown }      
+      - file: "src/content/privacy.md"
+        name: privacy
+        label: Privacy
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
+          - { name: title, label: Privacy }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/accessibility.md"
+        name: accessibility
+        label: Accessibility
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Accessibility }
+          - { name: body, label: Body, widget: markdown }
