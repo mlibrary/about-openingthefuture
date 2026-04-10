@@ -495,8 +495,12 @@ p a.btn {
   }
 
   a.logo-link, a {
-    text-decoration: underline;
     border-bottom: 0px;
+  }
+
+   a.logo-link:hover, a:hover {
+    text-decoration: underline;
+    background-color: transparent;
   }
 
   span.logo {

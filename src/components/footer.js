@@ -23,13 +23,18 @@ const Footer = () => {
         <div className="row justify-content-between">
           <div className="col-md-4 contact">
             <a href="/" className="block logo-link"><img src="/assets/OTF-logo.png" alt="Logo: Opening the Future" height="auto" width="150" /></a>          
-            <small className="mt-3 text-light d-block"><a href="mailto:" className="text-light">email@email.com</a></small>            
+            <span className="mt-3 text-light d-block"><a href="mailto:" className="text-light">email@email.com</a></span>            
           </div>                    
           <div className="col-md-6">
             <ul className="list-unstyled second-nav">
-              <li><a className="text-light" href="/about">About the Model</a></li>                
+              <li><a className="text-light" href="/about">About the Model</a>
+                <ul className="list-unstyled">
+                  <li><a className="text-light" href="/faq">FAQs</a></li>
+                  <li><a className="text-light" href="/resources">Resources</a></li>
+                </ul>
+              </li>                
               <li><a className="text-light" href="/for-libraries">For Libraries</a></li>              
-              <li><a className="text-light" href="/get-involved">Get Involved</a></li>
+              <li><a className="text-light" href="/for-publishers">For Publishers</a></li>
               <li><a className="text-light" href="/supporters">Supporters</a></li>
               <li><a className="text-light" href="/contact">Contact</a></li>
             </ul>
