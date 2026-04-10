@@ -25,10 +25,15 @@ const Navbar = () => {
           }
         >
           <ul className="navbar-nav float-right">
-            <li className="nav-item">
-              <Link to="/about" className="nav-link">
-                About the Model
-              </Link>
+            <li className="nav-item dropdown">
+              <a href="#" className="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                About
+              </a>
+              <div className="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a className="dropdown-item" href="/about">About the Model</a>
+                <a className="dropdown-item" href="/faq">FAQs</a>
+                <a className="dropdown-item" href="/resources">Resources</a>
+              </div>
             </li>
             <li className="nav-item">
               <Link to="/for-libraries" className="nav-link">
@@ -36,8 +41,8 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/get-involved" className="nav-link">
-                Get Involved
+              <Link to="/for-publishers" className="nav-link">
+                For Publishers
               </Link>
             </li>
             <li className="nav-item">

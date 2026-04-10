@@ -1,5 +1,5 @@
 ---
 templateKey: about-page
-title: Get Involved
+title: For Publishers
 ---
 Forthcoming
