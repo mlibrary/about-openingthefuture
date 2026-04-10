@@ -2,5 +2,5 @@
 templateKey: about-page
 title: Our Supporters
 ---
-Forthcoming
+This will be a list of supporting members
 
