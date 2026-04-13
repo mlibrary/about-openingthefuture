@@ -20,7 +20,7 @@
     "gatsby-plugin-sitemap": "^6.16.0",
     "gatsby-remark-copy-linked-files": "^6.13.2",
     "gatsby-remark-images": "^7.13.2",
-    "gatsby-remark-relative-images": "^2.0.5",
+    "gatsby-remark-relative-images-v2": "^0.1.5",
     "gatsby-source-filesystem": "^5.16.0",
     "gatsby-transformer-remark": "^6.13.1",
     "gatsby-transformer-sharp": "^5.16.0",

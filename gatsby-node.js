@@ -42,8 +42,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   // FULCRUMOPS-290 also community is different, not a generated "page" but more like index.js 
   // mostly just because of historical reasons
   pages = results.data.allMarkdownRemark.edges.filter(edge => {
-    if (edge.node.frontmatter.templateKey === "publisher" ||
-        edge.node.frontmatter.templateKey === "journal" ||
+    if (edge.node.frontmatter.templateKey === "publisher" ||        
         edge.node.frontmatter.templateKey === "home-page" ||
         edge.node.frontmatter.templateKey === "blog-page") {
       return false
@@ -66,10 +65,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   })
 }
 
-//const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+const { fmImagesToRelative } = require('gatsby-remark-relative-images-v2');
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  //fmImagesToRelative(node);
+  fmImagesToRelative(node);
 
   const { createNodeField } = actions;
   if (node.internal.type === `MarkdownRemark`) {

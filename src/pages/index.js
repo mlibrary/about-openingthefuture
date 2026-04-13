@@ -53,7 +53,6 @@ query {
         id
         frontmatter {
           title          
-          description
           publisherLink
           orderOnPage
         }
