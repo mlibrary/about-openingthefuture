@@ -66,10 +66,24 @@ collections:
               - { name: buttonUrl, label: "CTA Button URL" }
       - file: "src/content/about.md"
         name: about
-        label: About
+        label: About the Model
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
-          - { name: title, label: About }
+          - { name: title, label: About the Model }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/faq.md"
+        name: faq
+        label: FAQs
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: FAQs }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/resources.md"
+        name: resources
+        label: resources
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Resources }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/supporters.md"
         name: supporters
@@ -85,12 +99,12 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
           - { name: title, label: For Libraries }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/get-involved.md"
-        name: getInvolved
-        label: Get Involved
+      - file: "src/content/for-publishers.md"
+        name: forPublishers
+        label: For Publishers
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
-          - { name: title, label: Get Involved }
+          - { name: title, label: For Publishers }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/contact.md"
         name: contact
