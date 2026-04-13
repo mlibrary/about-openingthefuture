@@ -34,12 +34,14 @@ There are many academic libraries purchasing books, but by implementing a subscr
 
 The model scales dynamically. Presses that have adopted it will continue to operate exactly as they are at the moment. However, the moment they have enough revenue to make a book OA through the scheme, the next book to be published can be made open access. In this way, presses don't need to wait until they have 200 libraries (for example) to start making things OA. Open access publishing can start once they have around 10 or 15 members (this number will vary depending on individual press publishing costs).
 
-Opening the Future launched in early 2021 with the Central European University Press coming forward to pilot the model, and it expanded later that year with Liverpool University Press adopting a version of the model for two of their book series. Michigan State University Press launched a book series model in summer 2025 and Boydell & Brewer launched several OtF packages in Autumn/Fall of 2025. Further publishers are considering their options with at least one more slated to launch in January 2026. You can access the books and membership deals on offer from all participating presses by clicking on their logos on our home page or by clicking the buttons above.
+Opening the Future launched in early 2021 with the Central European University Press coming forward to pilot the model, and it expanded later that year with Liverpool University Press adopting a version of the model for two of their book series. Michigan State University Press launched a book series model in summer 2025 and Boydell & Brewer launched several OtF packages in Autumn/Fall of 2025, followed by Basler Afrika Bibliographien in 2026.
 
-We are always interested in talking to scholarly publishers who might like to launch an OtF programme themselves. If you would like to discuss this with the project team, please click here for more details.
+There is now a breadth of backlist scholarship available on topics ranging from African Studies and black experience in America; to medieval music; Latin American language, politics and culture; the history of the Ukraine/Russian region; European politics and history; performance studies, Southern Africa and Namibia, and much more.
+
+Libraries can access the books and membership deals on offer from all participating presses by clicking on their logos on our home page or by contacting Lyrasis on [membersupport@lyrasis.org](mailto:membersupport@lyrasis.org)
+
+We are always interested in talking to scholarly publishers who might like to launch an OtF programme themselves. If you would like to discuss this with the Fulcrum team, [please go to the For Publishers section of our site](https://about-openingthefuture.netlify.app/for-publishers/) more details.
 
 ### The future
 
-Copim is an international partnership of researchers, universities, librarians, publishers and infrastructure providers supported by the Research England Development Fund (REDFund) and by Arcadia, a charitable fund of Lisbet Rausing and Peter Baldwin. CEU Press were assisted by Copim in implementing Opening the Future. You can find out more about the Copim Community and its other open infrastructures at: www.copim.ac.uk
-
-If we wish to see a fair transition to open access for books, across the university sector, we need presses to implement these models themselves. No one model will fit all publishers or use cases but models like Opening the Future that scale dynamically as the revenue becomes available can set us on the right path.
+If we wish to see a fair transition to open access for books, across the university sector, we need presses to implement these models themselves and we need libraries to invest in them. No one model will fit all publishers or use cases but models like Opening the Future that scale dynamically as the revenue becomes available can set us on the right path.
