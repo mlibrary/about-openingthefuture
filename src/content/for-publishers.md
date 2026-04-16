@@ -14,7 +14,7 @@ OtF scales dynamically and is designed with smaller publishers in mind. Your pre
 
 It's quick and easy to launch, hosting the backlist books on the community-based, open-source Fulcrum publishing platform.
 
-![Infographic demonstrating the incremental nature of accruing OA funding via OtF](assets/infographic-1-without-fees.png)
+![Infographic demonstrating the incremental nature of accruing OA funding via OtF](assets/incremental-oa-infographic-april-2026.png)
 
 ### Interested in launching OtF at your press?
 
