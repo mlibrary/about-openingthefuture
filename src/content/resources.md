@@ -6,8 +6,7 @@ Use the links below to download various files that might be useful to you. There
 
 ### Guiding Principles
 
-
-<a class="btn btn-secondary" href="assets/otf-guiding-principles_final-nov-25.pdf">Download the OtF Guiding Principles PDF</a>
+<a class="btn btn-secondary" href="/assets/otf-guiding-principles_final-nov-25.pdf">Download the OtF Guiding Principles PDF</a>
 
 ### Brochure and Membership Benefits
 
