@@ -7,3 +7,15 @@ Use the links below to download various files that might be useful to you. There
 Guiding Principles
 
 <a href="assets/otf-guiding-principles_final-nov-25.pdf">undefined</a>
+
+###### Brochure and Membership Benefits
+
+\[to add]
+
+###### Infographics
+
+![Infographic showing incremental nature of OA revenue accruing through OtF](assets/infographic-1-without-fees.png)
+
+![Infographic showing simple tiered structure of OtF](assets/simple-structure_transparent-bkgrnd.png)
+
+![Infographic showing the OtF process in 3 simple steps](assets/opening-the-future-in-a-nutshell-feb-2024.png)
