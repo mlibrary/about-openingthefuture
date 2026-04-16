@@ -12,9 +12,9 @@ The model was devised to enable small-to-medium-sized "legacy" or "traditional" 
 
 OtF scales dynamically and is designed with smaller publishers in mind. Your press doesn't need to wait until you have 200 libraries on board (for example) to start making books OA. Open access publishing can start once you have around 10 or 15 members (though this number will vary depending on individual press publishing costs). The moment you have accrued enough OtF membership revenue, the next book in your pipeline can be published open access instead of behind a paywall. Then you wait for the revenue to build again, and so on.
 
-![Infographic demonstrating the incremental nature of accruing OA funding via OtF](assets/infographic-1-without-fees.png)
-
 It's quick and easy to launch, hosting the backlist books on the community-based, open-source Fulcrum publishing platform.
+
+![Infographic demonstrating the incremental nature of accruing OA funding via OtF](assets/infographic-1-without-fees.png)
 
 ### Interested in launching OtF at your press?
 
