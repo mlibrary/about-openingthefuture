@@ -60,6 +60,12 @@ Library advisory board participation for all members, with continuous feedback f
 * Funds the publication of high-quality, peer-reviewed books in OA format with CC licences
 * New frontlist OA books go through the same editorial processes as any other book at the Press
 
+<a class="btn btn-secondary" href="mailto:membersupport@lyrasis.org">Sign up to subscribe as a member library</a>
+
 ### Building a Community of Member Libraries
 
 Over 100+ library members including consortia, some are now renewing their membership, funding more OA books and simultaneously increasing their own local collections. See our Supporters page for a complete list of members.
+
+#### Join our Community of Practice
+
+The OtF presses, member libraries and platform partners meet on Zoom every quarter to discuss challenges and opportunities and to swap information. You are invited to join and listen in or ask questions - you don't have to be a subscribing member to join the calls. Contact **membersupport@lyrasis.org** if you'd like to be added to be sent the Zoom link.
