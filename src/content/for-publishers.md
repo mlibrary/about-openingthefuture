@@ -14,10 +14,10 @@ OtF scales dynamically and is designed with smaller publishers in mind. Your pre
 
 It's quick and easy to launch, hosting the backlist books on the community-based, open-source Fulcrum publishing platform.
 
-![Infographic demonstrating the incremental nature of accruing OA funding via OtF](assets/incremental-oa-infographic-april-2026.png)
+![Infographic demonstrating the incremental nature of accruing OA funding via OtF](assets/incremental-oa-infographic_2026.png)
 
 ### Interested in launching OtF at your press?
 
 If you'd like to discuss how OtF might work at your own press, get in touch with Fulcrum and speak with the publishing and technology experts based at the University of Michigan Library in Ann Arbor, Michigan.
 
-<a class="btn btn-secondary" href="www.loremipsum.net">Contact Fulcrum</a>
+<a class="btn btn-secondary" href="mailto:mpub-access@umich.edu">Contact Fulcrum</a>
