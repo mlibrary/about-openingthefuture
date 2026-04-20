@@ -98,11 +98,11 @@ The following webpage links have guidance for authors outlining our selection cr
 
 <h6 id="section3.1"><b>What do subscribing members get for their money?</b></h6>
 <p>Members receive access to the backlist titles they have chosen to subscribe to. These packages of backlist books vary in size and topic depending on the publisher, and more details can be found by following the links from the OtF home page to the individual press pages or on the Lyrasis catalogue as follows:</p>
-<p>Basler Afrika Bibliographien Opening the Future<br>
-Boydell &amp; Brewer Opening the Future<br>
-Central European University Press Opening the Future<br>
-Liverpool University Press Opening the Future<br>
-Michigan State University Press Opening the Future</p>
+<p>[Basler Afrika Bibliographien Opening the Future](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmy.lyrasis.org%2fs%2fproduct-details%3fid%3da1BUh000002i5qrMAA&c=E,1,KHav_QIR_Mn9wAbh1O89OnM_dkrT8xhW48-oAv1Oubw7IQjAsAsI0-mSI7iS-UnjWkwedvFHKERL-nuE6iBh4B7C2bRchdHtlXC5h_5FPb5bqU9J67c,&typo=1)<br>
+[Boydell &amp; Brewer Opening the Future](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmy.lyrasis.org%2fs%2fproduct-details%3fid%3da1BUh000002SfLdMAK&c=E,1,TtZabr_1wuDpsaNAZ9_S7JTiIjdoTCESNNYNXiJxAcM71eBTn5TbElZcdQXBVzbUoShbUZDNyRZGN3WeeFNSGAnT8OLgwibLdyGj9nJYQkL3H7g,&typo=1)<br>
+[Central European University Press Opening the Future](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmy.lyrasis.org%2fs%2fproduct-details%3fid%3da1BUh000001GT7kMAG&c=E,1,H57SQj4lYnBde_gVcGpx2HOukZHuVkui2Ku25X3tlCt02KBIbWNcH2Uf9r4TYfiAc39aeLnKHFFZhtLYgJWU7ej9nMS5h8AHZQETlnirocw2xds4Sg,,&typo=1)<br>
+[Liverpool University Press Opening the Future](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmy.lyrasis.org%2fs%2fproduct-details%3fid%3da1BUh000001GTS7MAO&c=E,1,yYkodofYFVgyYkranNFoXiHqGh6lJhZenhdsk-_cJEvhsZo_yFvwNxZCjVaHD-fCD9-VBf2jZtGmDB_XcJEpadtDeReOsdScihwXTJjPXhIYDbqMguJhg-4,&typo=1)<br>
+[Michigan State University Press Opening the Future](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmy.lyrasis.org%2fs%2fproduct-details%3fid%3da1BUh0000025tE1MAI&c=E,1,aCyH3kRMPndEfBFzZthR-D9SYXJht6rHBVC0WEq3MqRTqmyjQZHL8I_azlEUiJCMqvwA6OV5sgfoXf83PwlyCv9R2F5NzPzujnUtOBbjrU9V&typo=1)</p>
 <p>We also welcome library members (and non-member librarians!) to join the publisher members in our quarterly Community of Practice.</p>
 <p><a href="#top"><span style="font-size: 10px;">Back to top of page</span></a></p><br>
 
