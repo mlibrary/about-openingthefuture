@@ -141,7 +141,7 @@ The following webpage links have guidance for authors outlining our selection cr
 <p>Members receive access to the backlist titles they have chosen to subscribe to. These packages of backlist books vary in size and topic depending on the publisher, and more details can be found by following the links from the OtF home page to the individual press pages or on the Lyrasis catalogue as follows:</p>
 
 <p>
-[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
+\[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
 
 [Boydell &amp; Brewer Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002SfLdMAK)<br>
 
@@ -159,15 +159,11 @@ The following webpage links have guidance for authors outlining our selection cr
 
 <p>Our membership prices vary per publisher due to variations in package size and book production costs. For individual package prices, please see here the following links:</p>
 
-<p>[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
-
-[Boydell &amp; Brewer Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002SfLdMAK)<br>
-
-[Central European University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000001GT7kMAG)<br>
-
-[Liverpool University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000001GTS7MAO)<br>
-
-[Michigan State University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh0000025tE1MAI)</p>
+* [Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)
+* [Boydell &amp; Brewer Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002SfLdMAK)
+* [Central European University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000001GT7kMAG)
+* [Liverpool University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000001GTS7MAO)
+* [Michigan State University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh0000025tE1MAI)
 
 <p>Library and institutional members are banded according to Carnegie Classification, as recognised by Lyrasis. Membership is for a minimum of three years. Member libraries and institutions will have unlimited concurrent/simultaneous access to all titles in the package they've subscribed to during the term of their three year membership. They will be entitled to perpetual access to that package at the end of their three year membership.</p>
 
@@ -219,7 +215,7 @@ The books in the subscription package are hosted on the ABC in their standard DR
 
 <p>Some of our publishers (Liverpool University Press, Michigan State University Press, and Basler Afrika Bibliographien) currently only offer one backlist package. CEU Press and Boydell &amp; Brewer both offer multiple packages on a variety of subjects. For details please see the following links:</p>
 
-<p>[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
+<p>\[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
 
 [Boydell &amp; Brewer Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002SfLdMAK)<br>
 
@@ -243,7 +239,7 @@ The books in the subscription package are hosted on the ABC in their standard DR
 
 <p>Joining takes about 1 minute by filling in a form with your details and the package(s) you wish to have access to. The presses will initiate membership and billing when they receive your details.</p>
 
-<p>[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
+<p>\[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
 
 [Boydell &amp; Brewer Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002SfLdMAK)<br>
 
