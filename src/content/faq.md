@@ -140,15 +140,15 @@ The following webpage links have guidance for authors outlining our selection cr
 
 <p>Members receive access to the backlist titles they have chosen to subscribe to. These packages of backlist books vary in size and topic depending on the publisher, and more details can be found by following the links from the OtF home page to the individual press pages or on the Lyrasis catalogue as follows:</p>
 
-<p>Basler Afrika Bibliographien Opening the Future<br>
+<p>[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
 
-Boydell &amp; Brewer Opening the Future<br>
+[Boydell &amp; Brewer Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002SfLdMAK)<br>
 
-Central European University Press Opening the Future<br>
+[Central European University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000001GT7kMAG)<br>
 
-Liverpool University Press Opening the Future<br>
+[Liverpool University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000001GTS7MAO)<br>
 
-Michigan State University Press Opening the Future</p>
+[Michigan State University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh0000025tE1MAI)</p>
 
 <p>We also welcome library members (and non-member librarians!) to join the publisher members in our quarterly Community of Practice.</p>
 
@@ -218,15 +218,15 @@ The books in the subscription package are hosted on the ABC in their standard DR
 
 <p>Some of our publishers (Liverpool University Press, Michigan State University Press, and Basler Afrika Bibliographien) currently only offer one backlist package. CEU Press and Boydell &amp; Brewer both offer multiple packages on a variety of subjects. For details please see the following links:</p>
 
-<p>Basler Afrika Bibliographien Opening the Future<br>
+<p>[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
 
-Boydell &amp; Brewer Opening the Future<br>
+[Boydell &amp; Brewer Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002SfLdMAK)<br>
 
-Central European University Press Opening the Future<br>
+[Central European University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000001GT7kMAG)<br>
 
-Liverpool University Press Opening the Future<br>
+[Liverpool University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000001GTS7MAO)<br>
 
-Michigan State University Press Opening the Future</p>
+[Michigan State University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh0000025tE1MAI)</p>
 
 <p>You can sign up to as many packages as you like - simply fill in the form for each package you want access to or email membersupport@lyrasis.org and let them know which ones you want.</p>
 
@@ -242,15 +242,15 @@ Michigan State University Press Opening the Future</p>
 
 <p>Joining takes about 1 minute by filling in a form with your details and the package(s) you wish to have access to. The presses will initiate membership and billing when they receive your details.</p>
 
-<p>Basler Afrika Bibliographien Opening the Future<br>
+<p>[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
 
-Boydell &amp; Brewer Opening the Future<br>
+[Boydell &amp; Brewer Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002SfLdMAK)<br>
 
-Central European University Press Opening the Future<br>
+[Central European University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000001GT7kMAG)<br>
 
-Liverpool University Press Opening the Future<br>
+[Liverpool University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000001GTS7MAO)<br>
 
-Michigan State University Press Opening the Future</p>
+[Michigan State University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh0000025tE1MAI)</p>
 
 <p>For UK HEIs, the easiest route to become a member is via Jisc.</p>
 
