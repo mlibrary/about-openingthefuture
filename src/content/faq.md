@@ -140,7 +140,8 @@ The following webpage links have guidance for authors outlining our selection cr
 
 <p>Members receive access to the backlist titles they have chosen to subscribe to. These packages of backlist books vary in size and topic depending on the publisher, and more details can be found by following the links from the OtF home page to the individual press pages or on the Lyrasis catalogue as follows:</p>
 
-<p>[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
+<p>
+[Basler Afrika Bibliographien Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002i5qrMAA)<br>
 
 [Boydell &amp; Brewer Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000002SfLdMAK)<br>
 
