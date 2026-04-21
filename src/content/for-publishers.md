@@ -20,4 +20,4 @@ It's quick and easy to launch, hosting the backlist books on the community-based
 
 If you'd like to discuss how OtF might work at your own press, get in touch with Fulcrum and speak with the publishing and technology experts based at the University of Michigan Library in Ann Arbor, Michigan.
 
-<a class="btn btn-secondary" href="mailto:mpub-access@umich.edu">Contact Fulcrum</a>
+<a class="btn btn-secondary" href="mailto:fulcrum-info@umich.edu">Contact Fulcrum</a>
