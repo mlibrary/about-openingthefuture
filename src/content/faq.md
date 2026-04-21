@@ -70,7 +70,7 @@ title: Frequently Asked Questions
 
 <p>We believe that with the documented success of Opening the Future we have a model that could lead to the widespread transition of university and mission-driven presses worldwide to OA. Others, including the Copim Community and the Open Book Collective, are working on reducing the friction of OA publishing through managing and selling funding schemes to libraries.</p>
 
-<p>Any publishers interested in launching an OtF program of their own can contact Fulcrum publishing services on mpub-access@umich.edu, or can join any of the quarterly calls with the OtF Community of Practice forum for an informal chat with the other publishers and platform providers already involved.</p>
+<p>Any publishers interested in launching an OtF program of their own can contact Fulcrum publishing services on fulcrum-info@umich.edu, or can join any of the quarterly calls with the OtF Community of Practice forum for an informal chat with the other publishers and platform providers already involved.</p>
 
 <p><a href="#top"><span style="font-size: 10px;">Back to top of page</span></a></p><br>
 
@@ -162,7 +162,7 @@ The following webpage links have guidance for authors outlining our selection cr
 
 <p>Library and institutional members are banded according to Carnegie Classification, as recognised by Lyrasis. Membership is for a minimum of three years. Member libraries and institutions will have unlimited concurrent/simultaneous access to all titles in the package they've subscribed to during the term of their three year membership. They will be entitled to perpetual access to that package at the end of their three year membership.</p>
 
-<p>The simplest way to sign up is through Lyrasis via the links above or by emailing them on [membersupport@lyrasis.org](mailto:membersupport@lyrasis.org)</p>
+<p>The simplest way to sign up is through Lyrasis via the links above or by emailing them on \[membersupport@lyrasis.org](mailto:membersupport@lyrasis.org)</p>
 
 <p><a href="#top"><span style="font-size: 10px;">Back to top of page</span></a></p><br>
 
