@@ -8,6 +8,7 @@ $theme-colors: (
 
 @import "../bootstrap/scss/bootstrap";
 @import url("https://use.typekit.net/ikb4fkg.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 
 // typography
 @mixin proxima-nova {
@@ -24,6 +25,14 @@ $theme-colors: (
 
 .skolar-latin {
   @include skolar-latin;
+}
+
+@mixin roboto-slab {
+  font-family: "Roboto Slab", serif;
+}
+
+.roboto-slab {
+  @include roboto-slab;
 }
 
 body {
@@ -51,7 +60,7 @@ h2,
 h3,
 h4,
 h5 {
-    @include skolar-latin;
+    @include roboto-slab;
     font-weight: 600;
     color: $otf-black-80;
 }
@@ -185,7 +194,7 @@ p a.btn {
     font-size: 1.8em;
     font-weight: 700;
     text-align: center;
-    @include skolar-latin;
+    @include roboto-slab;
     max-width: 80%;
   }
   .hero-secondary {
@@ -197,15 +206,6 @@ p a.btn {
 }
 
 // cards
-
-.card {
-  border-radius: 0;
-
-  picture,
-  source {
-    line-height: 0;
-  };
-}
 
 .card-subtitle.text-muted,
 .published .text-muted {
@@ -290,7 +290,7 @@ p a.btn {
   background-color: $otf-light-lilac;
 
   .tag {
-    @include skolar-latin;
+    @include roboto-slab;
     color: $otf-brand-color;
     text-align: center;
     font-size: 2em;
@@ -476,6 +476,90 @@ p a.btn {
   img {
     border: 2px solid $otf-light-beige;
   }
+}
+
+// for libraries
+.intro {
+  padding: 0 2em 2em;
+  h2, h3 {
+    text-align: left;
+  }
+  h3 {
+    font-weight: 500;
+  }
+}
+
+.cards {
+  padding-top: 1em;
+
+  .card {
+    background-color: #f9fafb;
+    margin: 1em 0;
+    min-height: 280px;
+    border-left: 4px solid #1b1d32;
+  }
+  h4 {
+   margin-top: 0; 
+  }
+}
+
+.checklist {
+  ul {
+    padding-top: 1em;
+    list-style: none;
+  }
+  ul li {
+    font-size: 1.25em;
+    margin-bottom: 1em;       
+  }
+  ul li:before {
+    content: "☑ ";
+    font-size: 1.5em;
+  }
+}
+
+.features.checklist {
+  ul li {
+    font-size: 1em;
+  }
+  ul li:before {
+    content: "☑ ";
+    font-size: 1.25em;
+  }
+}
+
+.callout {
+  background-color: #f9fafb;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  border-left: 4px solid #1b1d32;
+  margin-bottom: 1.5rem;
+
+  h4 {
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-top: 0;
+  }
+
+}
+
+.cta {
+  background-color: $otf-light-lilac;
+  padding: 3rem;
+}
+
+.navy-box {
+  margin-top: 2rem;
+  background: linear-gradient(to right, #1b1d32, #2a2d4a);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  text-align: center;
+  color: $otf-light-grey;
+
+  h3, h4, a {
+    color: #FFF;
+  }
+
 }
 
 
