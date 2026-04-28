@@ -111,12 +111,12 @@ const IndexPage = ({data}) => {
         </section>
         <section className="cta-container container">
           <div className="row">
-            <div className="cta1 col-md-5">
+            <div className="callout col-md-4">
               <h2>{cta1.heading}</h2>
               <p>{cta1.description}</p>
               <a className="card-link btn btn-secondary btn-lg" href={cta1.buttonUrl}>{cta1.buttonLabel}</a>
             </div>
-            <div className="cta2 col-md-6">
+            <div className="callout col-md-6">
               <h2>{cta2.heading}</h2>
               <p>{cta2.description}</p>
               <a className="card-link btn btn-secondary btn-lg" href={cta2.buttonUrl}>{cta2.buttonLabel}</a>

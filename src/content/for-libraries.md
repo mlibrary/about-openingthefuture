@@ -59,7 +59,7 @@ Members won't be asked to pay more on top of their annual fee to access 'more' o
 <a class="btn btn-secondary btn-lg" href="www.loremipsum.com">Sign up to subscribe as a member library</a>
 
 </div>
-<div class="container">
+<div class="container pt-4">
   <div class="row cards">
 <div class="col-sm">      
 <div class="card">
@@ -160,8 +160,9 @@ Library advisory board participation for all members, with continuous feedback f
 </div>
 </div>
 </div>
-<div class="container">
+<div class="container pt-5">
 <div class="features checklist">
+<div class="beige-box">
 
 ### Technical Features & Compliance
 
@@ -177,13 +178,16 @@ Library advisory board participation for all members, with continuous feedback f
 </div>
 </div>
 </div>
+</div>
 <div class="cta text-center">
 
 <a class="btn btn-secondary btn-lg" href="mailto:membersupport@lyrasis.org">Sign up to subscribe as a member library</a>
 
 </div>
 <div class="container">
-<div class="navy-box">
+<div class="cards">
+<div class="card">
+<div class="card-body">
 
 ### Building a Community of Member Libraries
 
@@ -193,5 +197,7 @@ Over 100+ library members including consortia, some are now renewing their membe
 
 The OtF presses, member libraries and platform partners meet on Zoom every quarter to discuss challenges and opportunities and to swap information. You are invited to join and listen in or ask questions - you don't have to be a subscribing member to join the calls. Contact **membersupport@lyrasis.org** if you'd like to be added to be sent the Zoom link.
 
+</div>
+</div>
 </div>
 </div>

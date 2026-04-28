@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About the Model
 ---
-<p class="lead about">
+<p class="lead about pb-3">
 Opening the Future is a monograph subscription model that makes library funds go further through its collective membership scheme: achieving the dual objectives of enhancing collections while also supporting open access.
 </p>
 
@@ -26,20 +26,9 @@ Building on library journal membership models such as Open Library of the Humani
 </div>
 </div>
 
-<div class="navy-box">
-
-<h2 class="text-center">Our publishers</h2>
-
-\- Liverpool University Press
-
-\- CEU Press
-
-\- Michigan State University Press
-
-\- Boydell & Brewer
-
-\- Basler Afrika Bibliographien
-
+<h2>Our publishers</h2>
+<div class="books-container">
+<div class="featured"><div class="row book-card-list"><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/liverpool-up.png" alt="Logo: Liverpool University Press" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher1" class="card-title">Liverpool University Press</h3><a class="card-link btn btn-secondary btn d-block" href="https://lup.openingthefuture.net/" aria-describedby="publisher1">Visit Site <img class="external" src="/assets/external-link-light.png" alt="opens page in new tab"></a></div></div></div></div><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/ceu-press.png" alt="Logo: CEU Press" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher2" class="card-title">CEU Press</h3><a class="card-link btn btn-secondary btn d-block" href="https://ceup.openingthefuture.net/" aria-describedby="publisher2">Visit Site <img class="external" src="/assets/external-link-light.png" alt="opens page in new tab"></a></div></div></div></div><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/msu-press.png" alt="Logo: Michigan State University Press" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher3" class="card-title">Michigan State University Press</h3><a class="card-link btn btn-secondary btn d-block" href="https://msup.openingthefuture.net/" aria-describedby="publisher3">Visit Site <img class="external" src="/assets/external-link-light.png" alt="opens page in new tab"></a></div></div></div></div><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/boydell-brewer.png" alt="Logo: Boydell &amp; Brewer" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher4" class="card-title">Boydell &amp; Brewer</h3><a class="card-link btn btn-secondary btn d-block" href="https://boydell.openingthefuture.net/" aria-describedby="publisher4">Visit Site <img class="external" src="/assets/external-link-light.png" alt="opens page in new tab"></a></div></div></div></div><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/basler-afrika.png" alt="Logo: Basler Afrika Bibliographien" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher5" class="card-title">Basler Afrika Bibliographien</h3><a class="card-link btn btn-secondary btn d-block" href="https://bab.openingthefuture.net/" aria-describedby="publisher5">Visit Site <img class="external" src="/assets/external-link-light.png" alt="opens page in new tab"></a></div></div></div></div></div></div>
 </div>
 
 ## Background
@@ -58,12 +47,6 @@ Libraries can access the books and membership deals on offer from all participat
 
 We are always interested in talking to scholarly publishers who might like to launch an OtF programme themselves. If you would like to discuss this with the Fulcrum team, [please go to the For Publishers section of our site](/for-publishers/) more details.
 
-<br/>
-<br/>
-<div class="beige-box">
-
-### The future
+## The future
 
 If we wish to see a fair transition to open access for books, across the university sector, we need presses to implement these models themselves and we need libraries to invest in them. No one model will fit all publishers or use cases but models like Opening the Future that scale dynamically as the revenue becomes available can set us on the right path.
-
-</div>
