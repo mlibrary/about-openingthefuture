@@ -37,7 +37,7 @@ Opening the Future helps you make informed decisions by ticking all the boxes
 
 #### Value For Money
 
-A three-year commitment to receive perpetual access to 50-200 quality backlist titles is less than half an average BPC for a single book at many commercial publishers, and it simultaneously funds new OA books. With this program, library investment goes much further.
+A three-year commitment to receive perpetual access to 37-200 quality backlist titles is less than half an average BPC for a single book at many commercial publishers, and it simultaneously funds new OA books. With this program, library investment goes much further.
 
 </div>
 <div class="callout">
@@ -56,7 +56,7 @@ Members won't be asked to pay more on top of their annual fee to access 'more' o
 </div>
 <div class="cta text-center">
 
-<a class="btn btn-secondary btn-lg" href="www.loremipsum.com">Sign up to subscribe as a member library</a>
+<a class="btn btn-secondary btn-lg" href="/contact">Sign up to subscribe as a member library</a>
 
 </div>
 <div class="container pt-4">
@@ -181,7 +181,7 @@ Library advisory board participation for all members, with continuous feedback f
 </div>
 <div class="cta text-center">
 
-<a class="btn btn-secondary btn-lg" href="mailto:membersupport@lyrasis.org">Sign up to subscribe as a member library</a>
+<a class="btn btn-secondary btn-lg" href="/contact">Sign up to subscribe as a member library</a>
 
 </div>
 <div class="container">

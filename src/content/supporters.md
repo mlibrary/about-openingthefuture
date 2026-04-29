@@ -133,8 +133,8 @@ Central European University Press, Liverpool University Press, Michigan State Un
 </div>
 </div>
 
-<div class="supporters navy-box">
+<div class="supporters callout">
 
-If you have any questions or would like to sign up please email [membersupport@lyrasis.org](membersupport@lyrasis.org) to discuss any aspect of the model, pricing, what's included etc.
+If you have any questions or would like to sign up please email [membersupport@lyrasis.org](mailto:membersupport@lyrasis.org) to discuss any aspect of the model, pricing, what's included etc.
 
 </div>

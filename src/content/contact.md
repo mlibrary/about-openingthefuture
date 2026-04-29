@@ -2,10 +2,9 @@
 templateKey: contact-page
 title: Contact Us
 ---
-
 ## For Publishers
 
-If you would like to discuss how OtF might work at your own press then you can speak to the publishing and technology experts at Fulcrum, University of Michigan Publishing on **[fulcrum-info@umich.edu](mailto:fulcrum-info@umich.edu)** 
+If you would like to discuss how OtF might work at your own press, reach out to the publishing and technology experts at Fulcrum via email at **[openingthefuture@umich.edu](mailto:openingthefuture@umich.edu)** 
 
 
 ## For Libraries
