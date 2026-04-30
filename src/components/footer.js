@@ -22,8 +22,7 @@ const Footer = () => {
       <div className="container">
         <div className="row justify-content-between">
           <div className="col-md-4 contact">
-            <a href="/" className="block logo-link"><img src="/assets/OTF-logo.png" alt="Logo: Opening the Future" height="auto" width="150" /></a>          
-            <span className="mt-3 text-light d-block"><a href="mailto:openingthefuture@umich.edu" className="text-light">openingthefuture@umich.edu</a></span>            
+            <a href="/" className="block logo-link"><img src="/assets/OTF-logo.png" alt="Logo: Opening the Future" height="auto" width="150" /></a>            
           </div>                    
           <div className="col-md-6">
             <ul className="list-unstyled second-nav">
