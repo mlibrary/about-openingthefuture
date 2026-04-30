@@ -10,9 +10,10 @@ title: Resources
 <br />
 <a class="btn btn-lg btn-secondary" href="/assets/otf-guiding-principles_final-nov-25.pdf">Download the OtF Guiding Principles (PDF)</a> 
 
-## Brochure and Membership Benefits
+<!-- <h2>Brochure and Membership Benefits</h2> -->
 
-\[to add]
+<!-- To ADD -->
+
 
 ## Infographics
 
