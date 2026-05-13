@@ -2,18 +2,17 @@
 templateKey: about-page
 title: Resources
 ---
-<p class="lead">Use the links below to download various files that might be useful to you. There is a 'Brochure and Membership Benefits' document describing the membership and OA model in detail, plus infographics and a PDF outlining the principles guiding the participating presses. Click on the icons or thumbnails below to download them.</p>
+<p class="lead">Use the links below to download various files that might be useful to you in building a case for financial investment in OtF at your library. There is an 'Essential Information' PDF describing membership benefits and the OA model in detail, plus infographics and another PDF outlining the principles that guide the participating presses. Click on the icons or thumbnails below to download any of them.</p>
 
-## Guiding Principles
+## <h2>Guiding Principles</h2>
 
 <img class="img-fluid mb-4" style="max-height: 300px;" alt="Cover for OTF Guiding Principles" src="/assets/guiding-principles-cover.png" />
 <br />
 <a class="btn btn-lg btn-secondary" href="/assets/otf-guiding-principles_final-nov-25.pdf">Download the OtF Guiding Principles (PDF)</a> 
 
-<!-- <h2>Brochure and Membership Benefits</h2> -->
+<h2>Essential Information</h2>
 
-<!-- To ADD -->
-
+<a class="btn btn-secondary" href="assets/opening-the-future-essential-info-pack_2026.pdf">Download the Essential Information & Member Benefits (PDF)</a>
 
 ## Infographics
 
