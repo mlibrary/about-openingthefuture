@@ -153,7 +153,7 @@ Announcing new OA titles as funds accrue, with a clear pricing structure, and cr
 </div>
 <div class="card-text">
 
-Library advisory board participation for all members, with continuous feedback from trusted library organisations like Jisc (UK) and Lyrasis (USA) with wide community engagement.
+Community of Practice voluntary group for all members, with continuous feedback from trusted library organisations like Jisc (UK) and Lyrasis (USA) with wide community engagement.
 
 </div>
 </div>
