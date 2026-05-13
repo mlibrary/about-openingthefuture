@@ -2,6 +2,8 @@
 templateKey: about-page
 title: Resources
 ---
+![]()
+
 <p class="lead">Use the links below to download various files that might be useful to you in building a case for financial investment in OtF at your library. There is an 'Essential Information' PDF describing membership benefits and the OA model in detail, plus infographics and another PDF outlining the principles that guide the participating presses. Click on the icons or thumbnails below to download any of them.</p>
 
 <h2>Guiding Principles</h2>
@@ -13,6 +15,10 @@ title: Resources
 <h2>Essential Information</h2>
 
 <img class="img-fluid mb-4" style="max-height: 300px;" alt="Cover for Essential Information & member Benefits document" src="/assets/guiding-principles-cover.png" />
+
+![Cover for Essential Information & member Benefits document](assets/essential-info-thumbnail.png)
+
+
 <br />
 <a class="btn btn-secondary" href="/assets/opening-the-future-essential-info-pack_2026.pdf">Download the Essential Information & Member Benefits (PDF)</a>
 
