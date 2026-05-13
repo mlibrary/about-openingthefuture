@@ -12,7 +12,7 @@ title: Resources
 <br />
 <a class="btn btn-lg btn-secondary" href="/assets/otf-guiding-principles_final-nov-25.pdf">Download the OtF Guiding Principles (PDF)</a> 
 
-<h2>Essential Information</h2>
+<h2>Essential Information & Member Benefits</h2>
 
 <img class="img-fluid mb-4" style="max-height: 300px;" alt="Cover for Essential Information & member Benefits document" src="/assets/guiding-principles-cover.png" />
 
