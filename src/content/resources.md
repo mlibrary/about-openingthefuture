@@ -15,10 +15,6 @@ title: Resources
 <h2>Essential Information & Member Benefits</h2>
 
 <img class="img-fluid mb-4" style="max-height: 300px;" alt="Cover for Essential Information & member Benefits document" src="/assets/essential-info-thumbnail.png" />
-
-![Cover for Essential Information & member Benefits document](assets/essential-info-thumbnail.png)
-
-
 <br />
 <a class="btn btn-secondary" href="/assets/opening-the-future-essential-info-pack_2026.pdf">Download the Essential Information & Member Benefits (PDF)</a>
 
