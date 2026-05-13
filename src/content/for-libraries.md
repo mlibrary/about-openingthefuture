@@ -37,7 +37,7 @@ Opening the Future helps you make informed decisions by ticking all the boxes
 
 #### Value For Money
 
-A three-year commitment to receive perpetual access to 37-200 quality backlist titles is less than half an average BPC for a single book at many commercial publishers, and it simultaneously funds new OA books. With this program, library investment goes much further.
+A three-year commitment to receive perpetual access to 28-200 quality backlist titles is less than half an average BPC for a single book at many commercial publishers, and it simultaneously funds new OA books. With this program, library investment goes much further.
 
 </div>
 <div class="callout">
@@ -103,7 +103,7 @@ Provides high quality backlist titles for the membership fee, which is then used
 </div>
 <div class="card-text">
 
-Fits easily into existing library workflows using similar channels to conventional subscriptions, providing DRM-free access via Project MUSE, Lyrasis, Jisc, and other trusted partners.
+Fits easily into existing library workflows using similar channels to conventional subscriptions, providing DRM-free access via the Fulcrum platform or Project MUSE, with support from the non-profit library organisation Lyrasis, and other trusted partners.
 
 </div>
 </div>
@@ -121,7 +121,7 @@ Fits easily into existing library workflows using similar channels to convention
 </div>
 <div class="card-text">
 
-A three-year subscription to 37-200 closed back content titles costs considerably less than the average BPC for a frontlist title. And after three years, your access to the backlist books is perpetual.
+A three-year subscription to 28-200 closed back content titles costs considerably less than the average BPC for a frontlist title. And after three years, your access to the backlist books is perpetual.
 
 </div>
 </div>
