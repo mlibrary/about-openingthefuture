@@ -604,20 +604,19 @@ p a.btn {
 
 .quote-box {
   padding: 3rem 2rem;
-  margin-bottom: 4em;
+  margin-bottom: 3em;
 
   blockquote {
-  max-width: 800px;
   margin: 0 auto;
   position: relative;
-  padding: 4rem 4rem 5rem 4rem;
+  padding: 3rem 3rem 4rem 3rem;
   background: white;
   border-radius: 8px;
   border-left:4px solid #F0DC47;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 
     p {
-      font-size: 1.2em;
+      font-size: 1em;
     }
 
   footer { text-align: right;
@@ -631,7 +630,7 @@ p a.btn {
 }
   blockquote::before {
     content: '"';
-  font-size: 4rem;
+  font-size: 3rem;
   color: #1a1d35;
   position: absolute;
   top: -0.5rem;
@@ -641,7 +640,7 @@ p a.btn {
   }
   blockquote::after {
     content: '"';
-  font-size: 4rem;
+  font-size: 3rem;
   color: #1a1d35;
   position: absolute;
   bottom: -0.5rem;
