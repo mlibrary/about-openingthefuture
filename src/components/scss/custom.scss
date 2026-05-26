@@ -243,9 +243,10 @@ p a.btn {
   // publisher cards
   .book-card {
     max-width: 200px;
-    background-color: $otf-light-lilac;
+    background-color: #FFF;
     margin: 10px;
     border: 2px solid $otf-brand-color;
+    justify-content: end;
 
     h3 {
       font-size: 1rem;
@@ -273,6 +274,10 @@ p a.btn {
 
     .card-text {
       font-size: .9rem;
+    }
+
+    .card-body {
+      background-color: $otf-light-lilac;
     }
 
     .cover-only-img {
