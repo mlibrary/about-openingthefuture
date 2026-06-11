@@ -8,6 +8,8 @@ summary: The year 2025 was a very busy one for Opening the Future. The main news
   bringing the total to 5)!  Read on for more on this and other news.
 date: 2026-01-12T09:00:00.000Z
 ---
+*Posted by Tom Grady*
+
 ## New Publishers
 
 We spent much of this year onboarding and launching with two new publishers, [Michigan State University Press](https://msup.openingthefuture.net/news/148/) and [Boydell & Brewer](https://boydell.openingthefuture.net/news/158/), the latter of which was done in partnership with Fulcrum and Lyrasis, two key non-profits in the US. 
