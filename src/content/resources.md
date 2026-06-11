@@ -58,3 +58,7 @@ title: Resources
 </div>
 </div>
 </div>
+
+## Annual Reports
+* [Annual Report: A Look Back at 2025](/news/2026-01-12-annual-report-looking-back-at-2025)
+* [Annual Report: A Look Back at 2024](/news/2025-02-03-annual-report-looking-back-at-2024)

@@ -41,7 +41,7 @@ const Footer = () => {
         </div>
         <div className="row mt-4">
           <div className="col-md-8">
-          <span className=" copyright text-light d-block mb-3 font-weight-normal">© {year}, Michigan Publishing Services · <a className="text-light" href="/privacy">Privacy</a> · <a className="text-light" href="/accessibility">Accessibility</a></span>
+          <span className=" copyright text-light d-block mb-3 font-weight-normal">© {year}, Michigan Publishing Services · <a className="text-light" href="/accessibility">Accessibility</a></span>
           </div>
           <div className="col-md-4 text-right">
             <small className="text-white">Powered by</small> <a target="_blank" href="https://fulcrum.org/"><img className="fulcrum" src="/assets/fulcrum-full-white.svg" alt="Fulcrum logo" height="20" width="auto" /></a>

@@ -2,6 +2,14 @@
 templateKey: about-page
 title: Accessibility Statement
 ---
-*Last Updated: 03/24/26*
+*Last Updated: 06/11/26*
 
-Forthcoming
+## Accessibility of this site
+
+Our baseline accessibility target for this website is to meet WCAG 2.2 AA standards.
+
+The last accessibility evaluation for [openingthefuture.net](https://openingthefuture.net) was in May 2026.
+
+Please see the [Fulcrum Accessibility](https://fulcrum.org/accessibility) page to share feedback and report issues.
+
+The next scheduled accessibility evaluation for this website is in 2027.
