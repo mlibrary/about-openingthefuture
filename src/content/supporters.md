@@ -59,6 +59,7 @@ Central European University Press, Liverpool University Press, Michigan State Un
 * Portland State University
 * Queen's University Belfast
 * The Royal Danish Library
+* Smith College
 * Stanford University Libraries
 * Sonoma State University
 * Tilburg University
@@ -79,6 +80,7 @@ Central European University Press, Liverpool University Press, Michigan State Un
 * University of Bristol
 * University of Cambridge
 * University of Chicago
+* University of Connecticut
 * University of Delaware Library, Museums and Press
 * University of Edinburgh
 * University of Essex
