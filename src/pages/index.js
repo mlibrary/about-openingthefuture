@@ -40,10 +40,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "publisher" } }
     },
-    sort: {
-      fields: frontmatter___orderOnPage,
-      order: ASC
-    }
+    sort: { frontmatter: { orderOnPage: ASC } }
   ) {
     edges {
       node {
