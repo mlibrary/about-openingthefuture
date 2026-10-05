@@ -43,7 +43,7 @@ Opening the Future launched in early 2021 with the Central European University P
 
 There is now a breadth of backlist scholarship available on topics ranging from African Studies and black experience in America; to medieval music; Latin American language, politics and culture; the history of the Ukraine/Russian region; European politics and history; performance studies, Southern Africa and Namibia, and much more.
 
-Libraries can access the books and membership deals on offer from all participating presses by clicking on their logos on our home page or by contacting Lyrasis on [membersupport@lyrasis.org](mailto:membersupport@lyrasis.org)
+Libraries can access the books and membership deals on offer from all participating presses by clicking on their logos on our home page or by contacting Lyrasis on [csciservices@lyrasis.org](mailto:csciservices@lyrasis.org)
 
 We are always interested in talking to scholarly publishers who might like to launch an OtF programme themselves. If you would like to discuss this with the Fulcrum team, [please go to the For Publishers section of our site](/for-publishers/) more details.
 
