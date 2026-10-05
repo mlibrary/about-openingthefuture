@@ -6,10 +6,9 @@ title: Contact Us
 
 If you would like to discuss how OtF might work at your own press, reach out to the publishing and technology experts at Fulcrum via email at **[openingthefuture@umich.edu](mailto:openingthefuture@umich.edu)** 
 
-
 ## For Libraries
 
-If your library is interested in enhancing your local collection through a subscription to Opening the Future please email Lyrasis on **membersupport@lyrasis.org** to discuss any aspect of the program, pricing, and which book package(s) you'd like to access.
+If your library is interested in enhancing your local collection through a subscription to Opening the Future please email Lyrasis on **csciservices@lyrasis.org** to discuss any aspect of the program, pricing, and which book package(s) you'd like to access.
 
 Please include the following details to make the process quick and easy for your library:
 
