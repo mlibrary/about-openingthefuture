@@ -93,7 +93,7 @@ title: Frequently Asked Questions
 
 <h3 id="section2.2">2. Is this program open to library consortia deals?</h3>
 
-<p>Yes, certainly. To date, Opening the Future has received some degree of consortial support from: The California Digital Library, IReL, and BTAA. If you are a member of a consortium that you think would be interested in one of our publishers, please contact Lyrasis in the first instance and they will liaise with or put you in touch with the appropriate press: membersupport@lyrasis.org</p>
+<p>Yes, certainly. To date, Opening the Future has received some degree of consortial support from: The California Digital Library, IReL, and BTAA. If you are a member of a consortium that you think would be interested in one of our publishers, please contact Lyrasis in the first instance and they will liaise with or put you in touch with the appropriate press: csciservices@lyrasis.org</p>
 
 <p><a href="#top"><span style="font-size: 12px;">Back to top of page</span></a></p><br>
 
@@ -169,7 +169,7 @@ The following webpage links have guidance for authors outlining our selection cr
 
 <p>Library and institutional members are banded according to Carnegie Classification, as recognised by Lyrasis. Membership is for a minimum of three years. Member libraries and institutions will have unlimited concurrent/simultaneous access to all titles in the package they've subscribed to during the term of their three year membership. They will be entitled to perpetual access to that package at the end of their three year membership.</p>
 
-<p>The simplest way to sign up is through Lyrasis via the links above or by emailing them on \[membersupport@lyrasis.org](mailto:membersupport@lyrasis.org)</p>
+<p>The simplest way to sign up is through Lyrasis via the links above or by emailing them on \\[csciservices@lyrasis.org](mailto:csciservices@lyrasis.org)</p>
 
 <p><a href="#top"><span style="font-size: 12px;">Back to top of page</span></a></p><br>
 
@@ -223,7 +223,7 @@ The following webpage links have guidance for authors outlining our selection cr
 * [Liverpool University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh000001GTS7MAO)
 * [Michigan State University Press Opening the Future](https://my.lyrasis.org/s/product-details?id=a1BUh0000025tE1MAI)
 
-<p>You can sign up to as many packages as you like - simply fill in the form for each package you want access to or email membersupport@lyrasis.org and let them know which ones you want.</p>
+<p>You can sign up to as many packages as you like - simply fill in the form for each package you want access to or email csciservices@lyrasis.org and let them know which ones you want.</p>
 
 <p><a href="#top"><span style="font-size: 12px;">Back to top of page</span></a></p><br>
 
@@ -277,7 +277,7 @@ The following webpage links have guidance for authors outlining our selection cr
 
 <h3 id="section4.5">5. We already own the backlist titles/don't need access to the books but would still like to support the OA programme. Can we do this?</h3>
 
-<p>Yes, our publishers appreciate that some institutions may not want to sign up for a book package, but might still want to support, and help fund, the open access monographs they publish. For these institutions we have created an 'OA Supporter Membership'. It is simple and quick to join: just fill in the sign up form at Lyrasis with your details and we'll do the rest, or email Lyrasis on membersupport@lyrasis.org. No further action is required from you once we have processed the payment.</p>
+<p>Yes, our publishers appreciate that some institutions may not want to sign up for a book package, but might still want to support, and help fund, the open access monographs they publish. For these institutions we have created an 'OA Supporter Membership'. It is simple and quick to join: just fill in the sign up form at Lyrasis with your details and we'll do the rest, or email Lyrasis on csciservices@lyrasis.org. No further action is required from you once we have processed the payment.</p>
 
 <p><a href="#top"><span style="font-size: 12px;">Back to top of page</span></a></p><br>
 
@@ -291,7 +291,7 @@ The following webpage links have guidance for authors outlining our selection cr
 
 <h3 id="section5.2">2. Is this programme compliant with funder mandates?</h3>
 
-<p>Yes. For more detailed information contact Lyrasis on membersupport@lyrasis.org or Jisc.</p>
+<p>Yes. For more detailed information contact Lyrasis on csciservices@lyrasis.org or Jisc.</p>
 
 <p><a href="#top"><span style="font-size: 12px;">Back to top of page</span></a></p><br>
 
