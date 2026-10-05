@@ -195,7 +195,7 @@ Over 100+ library members including consortia, some are now renewing their membe
 
 #### Join our Community of Practice
 
-The OtF presses, member libraries and platform partners meet on Zoom every quarter to discuss challenges and opportunities and to swap information. You are invited to join and listen in or ask questions - you don't have to be a subscribing member to join the calls. Contact **membersupport@lyrasis.org** if you'd like to be added to be sent the Zoom link.
+The OtF presses, member libraries and platform partners meet on Zoom every quarter to discuss challenges and opportunities and to swap information. You are invited to join and listen in or ask questions - you don't have to be a subscribing member to join the calls. Contact **csciservices@lyrasis.org** if you'd like to be added to be sent the Zoom link.
 
 </div>
 </div>
