@@ -18,7 +18,7 @@ const Publisher = ({cover, publisher}) => {
         <div className="col-md-12">
           <div className="card-body">
             <h3 id={`publisher${orderOnPage}`} className="card-title">{title}</h3>
-            <a className="card-link btn btn-secondary btn d-block" href={publisherLink} aria-describedby={`publisher${orderOnPage}`} >Visit Site <img class="external" src="/assets/external-link-light.png" alt="opens page in new tab" /></a>
+            <a className="card-link btn btn-secondary btn d-block" href={publisherLink} aria-describedby={`publisher${orderOnPage}`} >Visit Site <img className="external" src="/assets/external-link-light.png" alt="opens page in new tab" /></a>
           </div>
         </div>
       </div>

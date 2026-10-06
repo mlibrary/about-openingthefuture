@@ -20,7 +20,7 @@ export default function HTML(props) {
               `,
           }}
         />
-        <script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer type="text/javascript"></script>
+        
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>

@@ -5,30 +5,50 @@ title: About the Model
 <p class="lead about pb-3">
 Opening the Future is a monograph subscription model that makes library funds go further through its collective membership scheme: achieving the dual objectives of enhancing collections while also supporting open access.
 </p>
-
 <div class="beige-box">
-
-**It's a simple library subscription membership programme whereby a press provides gated access to portions of their (closed) backlist books at a special price, and then uses the revenue from members' subscriptions to allow the frontlist to be OA from the date of publication.**
-
-Members pay a small annual fee to get DRM-free, unlimited access to a closed selection of well-regarded publishers' backlists, with perpetual access after three years. The membership revenue is used only to produce new OA monographs, without forcing authors to find funding for book processing charges (BPCs). The programme was shortlisted for an ALPSP Innovation in Publishing Award soon after launching.
-
-Building on library journal membership models such as Open Library of the Humanities and 'Subscribe to Open', this is a sustainable OA monograph publishing model that gives members access to a selection of the extensive backlist. The membership revenue is used to make newly-published books openly accessible to anyone.
-
+<p class="lead">It's a simple library subscription membership programme whereby a press provides gated access to portions of their (closed) backlist books at a special price, and then uses the revenue from members' subscriptions to allow the frontlist to be OA from the date of publication.</p>
+<p>Members pay a small annual fee to get DRM-free, unlimited access to a closed selection of well-regarded publishers' backlists, with perpetual access after three years. The membership revenue is used only to produce new OA monographs, without forcing authors to find funding for book processing charges (BPCs). The programme was shortlisted for an ALPSP Innovation in Publishing Award soon after launching.</p>
+<p>Building on library journal membership models such as Open Library of the Humanities and 'Subscribe to Open', this is a sustainable OA monograph publishing model that gives members access to a selection of the extensive backlist. The membership revenue is used to make newly-published books openly accessible to anyone.</p>
 </div>
 <div class="navy-box text-center">
-
-## How it works
-
+<h2>How it works</h2>
 <div class="row justify-content-md-center">
 <div class="col-sm-8 pb-4">
 <img class="img-fluid rounded pt-4" alt="How OtF works diagram" src="/assets/opening-the-future-in-a-nutshell-feb-2024.png" />
 </div>
 </div>
 </div>
-
 <h2>Our publishers</h2>
 <div class="books-container">
-<div class="featured"><div class="row book-card-list"><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/liverpool-up.png" alt="Logo: Liverpool University Press" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher1" class="card-title">Liverpool University Press</h3><a class="card-link btn btn-secondary btn d-block" href="https://lup.openingthefuture.net/" aria-describedby="publisher1">Visit Site <img class="external" src="/assets/external-link-light.png" alt="opens page in new tab"></a></div></div></div></div><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/ceu-press.png" alt="Logo: CEU Press" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher2" class="card-title">CEU Press</h3><a class="card-link btn btn-secondary btn d-block" href="https://ceup.openingthefuture.net/" aria-describedby="publisher2">Visit Site <img class="external" src="/assets/external-link-light.png" alt="opens page in new tab"></a></div></div></div></div><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/msu-press.png" alt="Logo: Michigan State University Press" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher3" class="card-title">Michigan State University Press</h3><a class="card-link btn btn-secondary btn d-block" href="https://msup.openingthefuture.net/" aria-describedby="publisher3">Visit Site <img class="external" src="/assets/external-link-light.png" alt="opens page in new tab"></a></div></div></div></div><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/boydell-brewer.png" alt="Logo: Boydell &amp; Brewer" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher4" class="card-title">Boydell &amp; Brewer</h3><a class="card-link btn btn-secondary btn d-block" href="https://boydell.openingthefuture.net/" aria-describedby="publisher4">Visit Site <img class="external" src="/assets/external-link-light.png" alt="opens page in new tab"></a></div></div></div></div><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/basler-afrika.png" alt="Logo: Basler Afrika Bibliographien" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher5" class="card-title">Basler Afrika Bibliographien</h3><a class="card-link btn btn-secondary btn d-block" href="https://bab.openingthefuture.net/" aria-describedby="publisher5">Visit Site <img class="external" src="/assets/external-link-light.png" alt="opens page in new tab"></a></div></div></div></div></div></div>
+<div class="featured">
+<div class="row book-card-list">
+<div class="card book-card">
+<div class="row">
+<div class="col-md-12">
+<img src="/assets/liverpool-up.png" alt="Logo: Liverpool University Press" class="card-img">
+</div>
+<div class="col-md-12">
+<div class="card-body">
+<h3 id="publisher1" class="card-title">Liverpool University Press</h3>
+<a class="card-link btn btn-secondary btn d-block" href="https://lup.openingthefuture.net/" aria-describedby="publisher1">Visit Site</a>
+</div>
+</div>
+</div>
+</div>
+<div class="card book-card">
+<div class="row">
+<div class="col-md-12">
+<img src="/assets/ceu-press.png" alt="Logo: CEU Press" class="card-img">
+</div>
+<div class="col-md-12">
+<div class="card-body">
+<h3 id="publisher2" class="card-title">CEU Press</h3>
+<a class="card-link btn btn-secondary btn d-block" href="https://ceup.openingthefuture.net/" aria-describedby="publisher2">Visit Site</a>
+</div>
+</div>
+</div>
+</div>
+<div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/msu-press.png" alt="Logo: Michigan State University Press" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher3" class="card-title">Michigan State University Press</h3><a class="card-link btn btn-secondary btn d-block" href="https://msup.openingthefuture.net/" aria-describedby="publisher3">Visit Site</a></div></div></div></div><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/boydell-brewer.png" alt="Logo: Boydell &amp; Brewer" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher4" class="card-title">Boydell &amp; Brewer</h3><a class="card-link btn btn-secondary btn d-block" href="https://boydell.openingthefuture.net/" aria-describedby="publisher4">Visit Site</a></div></div></div></div><div class="card book-card"><div class="row"><div class="col-md-12"><img src="/assets/basler-afrika.png" alt="Logo: Basler Afrika Bibliographien" class="card-img"></div><div class="col-md-12"><div class="card-body"><h3 id="publisher5" class="card-title">Basler Afrika Bibliographien</h3><a class="card-link btn btn-secondary btn d-block" href="https://bab.openingthefuture.net/" aria-describedby="publisher5">Visit Site</a></div></div></div></div></div></div>
 </div>
 
 ## Background
